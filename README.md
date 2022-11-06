@@ -1,1 +1,1 @@
-# candyCrush
+# Candy Crush
